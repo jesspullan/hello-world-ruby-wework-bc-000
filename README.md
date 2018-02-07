@@ -1,1 +1,1 @@
-ruby lib/welcome.rb
+Touch "Welcome to Tic Tac Toe"
